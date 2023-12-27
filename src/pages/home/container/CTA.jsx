@@ -58,7 +58,7 @@ const CTA = () => {
                 />
                 <div className="p-5">
                   <h2 className="font-roboto font-bold text-xl text-dark-soft md:text-2xl lg:text-[28px]">
-                    Masa Depan Pekerjaan
+                    Future of Work
                   </h2>
                   <p className="text-dark-light mt-3 text-sm md:text-lg">
                     Majority of peole will work in jobs that don’t exist today.
