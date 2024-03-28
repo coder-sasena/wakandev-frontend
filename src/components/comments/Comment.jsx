@@ -71,7 +71,7 @@ const Comment = ({
               }
             >
               <FiMessageSquare className="w-4 h-auto" />
-              <span>Balas</span>
+              <span>Reply</span>
             </button>
           )}
           {commentBelongsToUser && (
@@ -90,7 +90,7 @@ const Comment = ({
                 onClick={() => deleteComment(comment._id)}
               >
                 <FiTrash className="w-4 h-auto" />
-                <span>Hapus</span>
+                <span>Delete</span>
               </button>
             </>
           )}
