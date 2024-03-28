@@ -71,7 +71,7 @@ const Comment = ({
               }
             >
               <FiMessageSquare className="w-4 h-auto" />
-              <span>Reply</span>
+              <span>Replyyy</span>
             </button>
           )}
           {commentBelongsToUser && (
