@@ -11,7 +11,7 @@ const Hero = () => {
           2024
         </h1>
         <p className="text-dark-ligt mt-4 text-center md:text-xl lg:text-base xl:text-xl lg:text-left">
-          Bangun Karirmu Sebagai Developer Profesional
+          Web ini masih dalam pengembangan cuy! ditunggu ya..
         </p>
         <div className="flex flex-col gap-y-2.5 mt-10 lg:mt-6 xl:mt-10 relative">
           <div className="relative">
